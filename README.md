@@ -12,7 +12,7 @@ Folgendes sollen Minderjährige tun, um größere Änderungen beizutragen:
 1. Ladet den [Zettel runter](Erlaubnis.pdf)
 2. Druckt ihn aus
 3. Lasst einen Elter/Sorgebrechtigten/gesetzlichen Vertreter unterschreiben
-4. [Ladet den fotografierten/eingescannten Zettel hoch](https://github.com/schul-cloud/minderjaehrige/upload/master).
+4. [Ladet den fotografierten/eingescannten Zettel hoch](https://github.com/schul-cloud/minderjaehrige/upload/master/zettel).
 5. Erstellt eine Pull-Request
 6. Wenn wir diese annehmen, kannst du ohne Bedenken große Änderungen vornehmen.
 
